@@ -7,6 +7,7 @@ SetWorkingDir, %A_ScriptDir% ; Ensures a consistent starting directory.
     Loop
     {
         Click
+        sleep, 5
     }
 
 Escape::
